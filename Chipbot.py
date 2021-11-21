@@ -73,4 +73,4 @@ async def on_reaction_add(reaction, user):
     if str(reaction.emoji) == "⬛":
       await reaction.message.channel.send(user.name + "")
 
-client.run("OTExMjYyOTAxNTk0MDk5NzUz.YZe1tg.g0fmRDat9vjGPqYAmPwrmJ06f1w")
+client.run("토큰")
